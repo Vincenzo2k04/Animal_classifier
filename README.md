@@ -100,7 +100,3 @@ Training and validation accuracy and loss are plotted to monitor overfitting and
 - Add a web app using Streamlit or Flask for real-time predictions
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
